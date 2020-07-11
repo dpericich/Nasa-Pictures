@@ -1,0 +1,10 @@
+body{
+    margin:0;
+    padding: 0;
+}
+
+.siteBackground {
+    text-align: center;
+    background-color: black;
+    color: white
+}
